@@ -58,7 +58,7 @@ img {
     padding: 0;
 }
 .parallax {
-    background-image: url("storepictures/bookswindow.jpeg");
+    background-image: url("img folder/bookswindow.jpeg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
